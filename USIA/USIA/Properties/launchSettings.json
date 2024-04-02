@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run USIA": {
+      "commandName": "Executable",
+      "executablePath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\server\\altv-server.exe",
+      "workingDirectory": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\server"
+    }
+  }
+}

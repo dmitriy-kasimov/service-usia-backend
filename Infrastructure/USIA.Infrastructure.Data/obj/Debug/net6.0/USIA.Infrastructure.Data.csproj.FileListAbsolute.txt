@@ -1,0 +1,17 @@
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Infrastructure.Data.deps.json
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Infrastructure.Data.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Infrastructure.Data.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Domain.Core.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Domain.Interfaces.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Domain.Interfaces.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\bin\Debug\net6.0\USIA.Domain.Core.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.csproj.AssemblyReference.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.AssemblyInfoInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.AssemblyInfo.cs
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.csproj.CoreCompileInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.csproj.CopyComplete
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\refint\USIA.Infrastructure.Data.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\USIA.Infrastructure.Data.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\Sources\services\USIA\Infrastructure\USIA.Infrastructure.Data\obj\Debug\net6.0\ref\USIA.Infrastructure.Data.dll

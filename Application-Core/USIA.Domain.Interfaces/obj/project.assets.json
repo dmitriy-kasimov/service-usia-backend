@@ -1,0 +1,174 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AltV.Net/16.0.10": {
+        "type": "package",
+        "dependencies": {
+          "AltV.Net.Shared": "16.0.10"
+        },
+        "compile": {
+          "lib/net6.0/AltV.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.dll": {}
+        }
+      },
+      "AltV.Net.CApi/16.0.10": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/AltV.Net.CApi.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.CApi.dll": {}
+        }
+      },
+      "AltV.Net.Shared/16.0.10": {
+        "type": "package",
+        "dependencies": {
+          "AltV.Net.CApi": "16.0.10"
+        },
+        "compile": {
+          "lib/net6.0/AltV.Net.Shared.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.Shared.dll": {}
+        }
+      },
+      "USIA.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AltV.Net": "16.0.10"
+        },
+        "compile": {
+          "bin/placeholder/USIA.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/USIA.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltV.Net/16.0.10": {
+      "sha512": "0CvNymwk/DmjAw35x3sPwQPIwxnG0EHEH4llNOKpSRYy7OmxFh/0UjbVQsSYjpteu6i+OmV+qHKcfrSIsLECiw==",
+      "type": "package",
+      "path": "altv.net/16.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "altv.net.16.0.10.nupkg.sha512",
+        "altv.net.nuspec",
+        "icon.png",
+        "lib/net6.0/AltV.Net.dll",
+        "license.txt"
+      ]
+    },
+    "AltV.Net.CApi/16.0.10": {
+      "sha512": "+z6aMLTlqRoVwdVapmi2yF0jQK7QoMfkicv0cNSgOsE6gO5YuPgZ5H9GR8+fM7dPgxN4nsAKj54MxFivq+TYog==",
+      "type": "package",
+      "path": "altv.net.capi/16.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "altv.net.capi.16.0.10.nupkg.sha512",
+        "altv.net.capi.nuspec",
+        "icon.png",
+        "lib/net6.0/AltV.Net.CApi.dll",
+        "license.txt"
+      ]
+    },
+    "AltV.Net.Shared/16.0.10": {
+      "sha512": "5yX6dxNxuAZufQXh7M9NIWeKLy/hByAn/GQB3n3N7xyq2s4miIRYOFsphDTG4Q3TNk9n9Lzuh6cc93Oe2e8+dQ==",
+      "type": "package",
+      "path": "altv.net.shared/16.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "altv.net.shared.16.0.10.nupkg.sha512",
+        "altv.net.shared.nuspec",
+        "icon.png",
+        "lib/net6.0/AltV.Net.Shared.dll",
+        "license.txt"
+      ]
+    },
+    "USIA.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../USIA.Domain.Core/USIA.Domain.Core.csproj",
+      "msbuildProject": "../USIA.Domain.Core/USIA.Domain.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "USIA.Domain.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj",
+      "projectName": "USIA.Domain.Interfaces",
+      "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj",
+      "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
+      "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Interfaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dmitriy Kasimov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
+              "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
