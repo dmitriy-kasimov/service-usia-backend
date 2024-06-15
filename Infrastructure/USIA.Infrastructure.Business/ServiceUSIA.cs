@@ -10,25 +10,23 @@ namespace USIA.Infrastructure.Business
     public class ServiceUSIA : IServiceUSIA
     {
         private UserRepository UserRepository;
-        public ServiceUSIA() 
+        private User User;
+        public ServiceUSIA(User user) 
         {
             UserRepository = new UserRepository();
+            User = user;
         }
-
-
 
         public void Show()
         {
-            throw new NotImplementedException();
+            User.Emit("s:c:showUSIA");
         }
         public void Hide()
         {
             throw new NotImplementedException();
         }
 
-
-
-        public void Register(string login, string password, string confirmPassword, bool isCheckRules)
+        public void RegByLogin(string login, string password, string confirmPassword, bool isCheckRules)
         {
             if (!Validations.Validations.IsLoginCorrect(login)) throw new ValidateException(Validate.LoginIncorrect);
             if (!Validations.Validations.IsPasswordCorrect(password)) throw new ValidateException(Validate.PasswordIncorrect);
@@ -38,7 +36,7 @@ namespace USIA.Infrastructure.Business
             try
             {
                 if (UserRepository.IsRegistered(login)) throw new ServerException(Server.LoginIsExist);
-                UserRepository.Register(login, password);
+                UserRepository.RegByLogin(login, password);
             }
             catch
             {
@@ -46,15 +44,16 @@ namespace USIA.Infrastructure.Business
             }
         }
 
-        public void Login(string login, string password)
+        public void AuthByLogin(string login, string password)
         {
+            Console.WriteLine("Login microservice was called!");
             if (!Validations.Validations.IsLoginCorrect(login)) throw new ValidateException(Validate.LoginIncorrect);
             if (!Validations.Validations.IsPasswordCorrect(password)) throw new ValidateException(Validate.PasswordIncorrect);
            
             try
             {
                 if (!UserRepository.IsRegistered(login)) throw new ServerException(Server.LoginIsNotExist);
-                UserRepository.Login(login, password);
+                UserRepository.AuthByLogin(login, password);
             }
             catch 
             {

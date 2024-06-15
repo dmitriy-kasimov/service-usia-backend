@@ -2,14 +2,14 @@
 using System.Data;
 using USIA.Domain.Core;
 using USIA.Domain.Interfaces;
-using USIA.Infrastructure.Data.Crypto;
 using USIA.Infrastructure.Data.Exceptions;
+using USIA.Infrastructure.Data.MySQL.Crypto;
 
 namespace USIA.Infrastructure.Data
 {
     public class UserRepository : IUserRepository
     {
-        public void Register(string login, string password)
+        public void RegByLogin(string login, string password)
         {
             string query = $"INSERT INTO users (user_login, user_pass_hash) VALUES (@user_login, @user_pass_hash)";
             using MySqlCommand insertCommand = new (query);
@@ -27,7 +27,7 @@ namespace USIA.Infrastructure.Data
                 throw;
             }  
         }
-        public void Login(string login, string password)
+        public void AuthByLogin(string login, string password)
         {
             string passHash = MD5.CreateHash(password);
             string query = $"SELECT * FROM users WHERE user_login=\"{login}\" AND user_pass_hash=\"{passHash}\"";
@@ -51,8 +51,7 @@ namespace USIA.Infrastructure.Data
             {
                 DataTable? dt = MySQL.MySQL.QueryRead(command);
 
-                if (dt?.Rows.Count > 0) return true;
-                return false;
+                return dt?.Rows.Count > 0;
             }
             catch
             {

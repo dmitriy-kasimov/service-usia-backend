@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {}
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {}
   },
   "projects": {
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
         "projectName": "USIA.Domain.Core",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Core\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,7 +7,7 @@
 
     public class Server
     {
-        public static readonly string ServerIsNotAvaliable = "В настоящий момент сервер недоустпен.";
+        public static readonly string ServerIsNotAvaliable = "В настоящий момент сервер недоступен.";
 
         public static readonly string IncorrectLoginOrPassword = "Неправильный логин или пароль.";
         public static readonly string LoginIsExist = "Учётная запись с таким логином уже существует.";

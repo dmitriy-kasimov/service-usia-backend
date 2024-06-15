@@ -1911,11 +1911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
+      "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
       "projectName": "USIA.Infrastructure.Data",
-      "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
+      "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-      "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Infrastructure\\USIA.Infrastructure.Data\\obj\\",
+      "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1936,8 +1936,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj": {
-              "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj"
+            "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj": {
+              "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj"
             }
           }
         }

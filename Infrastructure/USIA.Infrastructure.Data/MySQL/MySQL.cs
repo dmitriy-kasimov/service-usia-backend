@@ -13,27 +13,8 @@ namespace USIA.Infrastructure.Data.MySQL
     {
         private readonly static string connStr = "SERVER=localhost;DATABASE=database;UID=root;Password=;Pooling=true;";
 
-        public static void Test()
-        {
-            using (MySqlConnection conn = new MySqlConnection(connStr))
-            {
-                try
-                {
-                    conn.Open();
-                    Console.WriteLine("Подключение с БД состоялось успешно!");
-                }
-                catch(Exception ex)
-                {
-                    Console.WriteLine(ex.ToString());
-                    throw new ServerException(Server.ServerIsNotAvaliable);
-                }
-            }
-        }
-
         public static void Query(MySqlCommand command)
         {
-            // some validation the incomming command
-            // ...
             using MySqlConnection conn = new MySqlConnection(connStr);
             try
             {
@@ -50,8 +31,6 @@ namespace USIA.Infrastructure.Data.MySQL
 
         public static DataTable? QueryRead(MySqlCommand command)
         {
-            // some validation the incomming command
-            // ...
             using MySqlConnection conn = new MySqlConnection(connStr);
             try
             {
@@ -60,16 +39,6 @@ namespace USIA.Infrastructure.Data.MySQL
                 using MySqlDataReader reader = command.ExecuteReader();
                 using DataTable dt = new (null);
                 dt.Load(reader);
-                //foreach (DataRow dr in dt.Rows)
-                //{
-                //    var cells = dr.ItemArray;
-                //    foreach (var cell in cells)
-                //    {
-                //        Console.Write(cell?.ToString() + " | ");
-                //    }
-                //    Console.WriteLine("---");
-                //}
-                //if (dt.Rows.Count == 0) return null;
                 return dt;
             }
             catch

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ugtW0MctwFF9KpY0w/1isvmJtRWFSxyzqprzK2kWKgUv5NinUZ7c/DiGfUvL1rIK1EhIfG2i+KjteOFwmeUb6w==",
+  "dgSpecHash": "11gK7xU0S0pLH50vBpWkMj3RisPwykvQHdBbasqnw8f4NgGZyNX79pxDVE6yD6KlmljNBiqOtN9ISzdW3RpFRg==",
   "success": true,
-  "projectFilePath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\Sources\\services\\USIA\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
+  "projectFilePath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\altv.net\\16.0.10\\altv.net.16.0.10.nupkg.sha512",
     "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\altv.net.capi\\16.0.10\\altv.net.capi.16.0.10.nupkg.sha512",
