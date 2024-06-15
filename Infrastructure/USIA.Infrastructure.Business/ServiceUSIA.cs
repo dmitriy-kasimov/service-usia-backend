@@ -23,7 +23,7 @@ namespace USIA.Infrastructure.Business
         }
         public void Hide()
         {
-            throw new NotImplementedException();
+            User.Emit("s:c:hideUSIA");
         }
 
         public void RegByLogin(string login, string password, string confirmPassword, bool isCheckRules)
@@ -46,7 +46,6 @@ namespace USIA.Infrastructure.Business
 
         public void AuthByLogin(string login, string password)
         {
-            Console.WriteLine("Login microservice was called!");
             if (!Validations.Validations.IsLoginCorrect(login)) throw new ValidateException(Validate.LoginIncorrect);
             if (!Validations.Validations.IsPasswordCorrect(password)) throw new ValidateException(Validate.PasswordIncorrect);
            

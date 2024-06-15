@@ -7,10 +7,10 @@
 
     public class Server
     {
-        public static readonly string ServerIsNotAvaliable = "В настоящий момент сервер недоступен.";
+        public static readonly string ServerIsNotAvaliable = "At the moment the server is unreachable";
 
-        public static readonly string IncorrectLoginOrPassword = "Неправильный логин или пароль.";
-        public static readonly string LoginIsExist = "Учётная запись с таким логином уже существует.";
-        public static readonly string LoginIsNotExist = "Учётная запись с таким логином НЕ существует.";
+        public static readonly string IncorrectLoginOrPassword = "Wrong login or password";
+        public static readonly string LoginIsExist = "Account with this login already exist";
+        public static readonly string LoginIsNotExist = "Account with this login does not exist";
     }
 }

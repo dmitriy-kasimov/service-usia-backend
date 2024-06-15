@@ -22,7 +22,26 @@ namespace USIA
             try
             {
                 serviceUSIA!.AuthByLogin(login, password);
-                Console.WriteLine($"{login} ввёл верный пароль и залогинился!");
+                serviceUSIA.Hide();
+            }
+            catch (ValidateException ve)
+            {
+                Console.WriteLine(ve.Message);
+            }
+            catch (ServerException se)
+            {
+                Console.WriteLine(se.Message);
+            }
+
+        }
+
+        [ClientEvent("c:s:onRegByLogin")]
+        public void OnRegByLoginHandler(User user, string login, string password, string confirmPassword, bool isCheckRules)
+        {
+            try
+            {
+                serviceUSIA!.RegByLogin(login, password, confirmPassword, isCheckRules);
+                serviceUSIA.Hide();
             }
             catch (ValidateException ve)
             {

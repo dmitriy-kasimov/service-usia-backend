@@ -6,10 +6,10 @@ namespace USIA.Domain.Core
     public class User : Player
     {
         public static readonly uint NicknameMaxLength = 32;
-        public bool LoggedIn { get; set; }
+
         public User(ICore core, IntPtr nativePointer, uint id) : base(core, nativePointer, id)
         {
-            LoggedIn = false;
+  
         }
     }
 
