@@ -23,14 +23,15 @@ namespace USIA
             {
                 serviceUSIA!.AuthByLogin(login, password);
                 serviceUSIA.Hide();
+                user.Emit("any:ServiceNotify:c:showNotification", "AuthSuccess", "Authentication", $"Welcome, {login}! You are successfully authenticated on the server!", 5000);
             }
             catch (ValidateException ve)
             {
-                Console.WriteLine(ve.Message);
+                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", ve.Message, "error", 3000);
             }
             catch (ServerException se)
             {
-                Console.WriteLine(se.Message);
+                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", se.Message, "error", 3000);
             }
 
         }
@@ -42,14 +43,15 @@ namespace USIA
             {
                 serviceUSIA!.RegByLogin(login, password, confirmPassword, isCheckRules);
                 serviceUSIA.Hide();
+                
             }
             catch (ValidateException ve)
             {
-                Console.WriteLine(ve.Message);
+                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", ve.Message, "error", 3000);
             }
             catch (ServerException se)
             {
-                Console.WriteLine(se.Message);
+                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", se.Message, "error", 3000);
             }
 
         }
