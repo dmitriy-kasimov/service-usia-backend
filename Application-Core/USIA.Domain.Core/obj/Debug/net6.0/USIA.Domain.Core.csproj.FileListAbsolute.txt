@@ -23,3 +23,16 @@ A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\refint\USIA.Domain.Core.dll
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.pdb
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\ref\USIA.Domain.Core.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\bin\Debug\net6.0\USIA.Domain.Core.deps.json
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\bin\Debug\net6.0\USIA.Domain.Core.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\bin\Debug\net6.0\USIA.Domain.Core.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.csproj.AssemblyReference.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.AssemblyInfoInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.AssemblyInfo.cs
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.csproj.CoreCompileInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.sourcelink.json
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\refint\USIA.Domain.Core.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\USIA.Domain.Core.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Core\obj\Debug\net6.0\ref\USIA.Domain.Core.dll

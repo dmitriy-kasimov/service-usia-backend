@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9DN2Y20OlGH90p/7MChJ5dZTPRBJARYAGpr8HWGl6gauvHVtGlC10PMdIV4pQiWIQZ996oDYfz7bHzrHbzZsg==",
+  "dgSpecHash": "5fyaIatelGCl7bujnrUzj/mzIMnnF7uHDiRDXP/h2cmXs5R4Roc6AEJYuQy7XmXcgOOb/fG6IWjq3fW8dq0HuA==",
   "success": true,
-  "projectFilePath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj",
+  "projectFilePath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

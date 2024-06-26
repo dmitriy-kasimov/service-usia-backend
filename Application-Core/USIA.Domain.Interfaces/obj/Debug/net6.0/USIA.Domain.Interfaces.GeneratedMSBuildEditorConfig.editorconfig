@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = USIA.Domain.Interfaces
-build_property.ProjectDir = A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Domain.Interfaces\
+build_property.ProjectDir = A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Domain.Interfaces\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

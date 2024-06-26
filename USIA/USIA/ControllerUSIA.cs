@@ -27,11 +27,11 @@ namespace USIA
             }
             catch (ValidateException ve)
             {
-                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", ve.Message, "error", 3000);
+                user.Emit("any:ServiceNotify:c:showAlert", "Error", ve.Message, "error", 3000);
             }
             catch (ServerException se)
             {
-                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", se.Message, "error", 3000);
+                user.Emit("any:ServiceNotify:c:showAlert", "Error", se.Message, "error", 3000);
             }
 
         }
@@ -43,15 +43,14 @@ namespace USIA
             {
                 serviceUSIA!.RegByLogin(login, password, confirmPassword, isCheckRules);
                 serviceUSIA.Hide();
-                
             }
             catch (ValidateException ve)
             {
-                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", ve.Message, "error", 3000);
+                user.Emit("any:ServiceNotify:c:showAlert", "Error", ve.Message, "error", 3000);
             }
             catch (ServerException se)
             {
-                user.Emit("any:ServiceNotify:c:showAlert", "Ошибка", se.Message, "error", 3000);
+                user.Emit("any:ServiceNotify:c:showAlert", "Error", se.Message, "error", 3000);
             }
 
         }

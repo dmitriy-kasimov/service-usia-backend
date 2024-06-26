@@ -28,3 +28,14 @@ A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\USIA\USIA\o
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\USIA\USIA\obj\Debug\net6.0\USIA.pdb
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\USIA\USIA\obj\Debug\net6.0\USIA.csproj.CopyComplete
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\USIA\USIA\obj\Debug\net6.0\ref\USIA.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.csproj.AssemblyReference.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.GeneratedMSBuildEditorConfig.editorconfig
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.AssemblyInfoInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.AssemblyInfo.cs
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.csproj.CoreCompileInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.sourcelink.json
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.csproj.CopyComplete
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\refint\USIA.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\USIA.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\USIA\USIA\obj\Debug\net6.0\ref\USIA.dll

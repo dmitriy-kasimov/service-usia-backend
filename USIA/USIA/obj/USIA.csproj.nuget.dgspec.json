@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\USIA\\USIA\\USIA.csproj": {}
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\USIA\\USIA\\USIA.csproj": {}
   },
   "projects": {
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
         "projectName": "USIA.Domain.Core",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj",
         "projectName": "USIA.Domain.Interfaces",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
-                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj"
+              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj": {
+                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Core\\USIA.Domain.Core.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj",
         "projectName": "USIA.Services.Interfaces",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,14 +191,14 @@
         }
       }
     },
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj",
         "projectName": "USIA.Infrastructure.Business",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Business\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,11 +219,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj": {
-                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj"
+              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj": {
+                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Services.Interfaces\\USIA.Services.Interfaces.csproj"
               },
-              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj": {
-                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj"
+              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj": {
+                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj"
               }
             }
           }
@@ -257,14 +257,14 @@
         }
       }
     },
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
         "projectName": "USIA.Infrastructure.Data",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Data\\USIA.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Data\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -285,8 +285,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj": {
-                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj"
+              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj": {
+                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Application-Core\\USIA.Domain.Interfaces\\USIA.Domain.Interfaces.csproj"
               }
             }
           }
@@ -326,14 +326,14 @@
         }
       }
     },
-    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\USIA\\USIA\\USIA.csproj": {
+    "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\USIA\\USIA\\USIA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\USIA\\USIA\\USIA.csproj",
+        "projectUniqueName": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\USIA\\USIA\\USIA.csproj",
         "projectName": "USIA",
-        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\USIA\\USIA\\USIA.csproj",
+        "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\USIA\\USIA\\USIA.csproj",
         "packagesPath": "C:\\Users\\Dmitriy Kasimov\\.nuget\\packages\\",
-        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\USIA\\USIA\\obj\\",
+        "outputPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\USIA\\USIA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -354,8 +354,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj": {
-                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\USIA\\usia-backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj"
+              "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj": {
+                "projectPath": "A:\\Alone\\PROJECTS\\GTA5\\LAtruckers\\sources\\services\\ServiceUSIA\\backend\\Infrastructure\\USIA.Infrastructure.Business\\USIA.Infrastructure.Business.csproj"
               }
             }
           }

@@ -21,3 +21,15 @@ A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\refint\USIA.Services.Interfaces.dll
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.pdb
 A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\USIA\usia-backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\ref\USIA.Services.Interfaces.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\bin\Debug\net6.0\USIA.Services.Interfaces.deps.json
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\bin\Debug\net6.0\USIA.Services.Interfaces.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\bin\Debug\net6.0\USIA.Services.Interfaces.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.AssemblyInfoInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.AssemblyInfo.cs
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.csproj.CoreCompileInputs.cache
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.sourcelink.json
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\refint\USIA.Services.Interfaces.dll
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\USIA.Services.Interfaces.pdb
+A:\Alone\PROJECTS\GTA5\LAtruckers\sources\services\ServiceUSIA\backend\Application-Core\USIA.Services.Interfaces\obj\Debug\net6.0\ref\USIA.Services.Interfaces.dll
